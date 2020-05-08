@@ -1,0 +1,60 @@
+body {
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(229, 6%, 66%);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 11px;
+    min-height: 100vh;
+    min-width: 100vh;
+}
+
+h1 {
+    margin: 0;
+}
+
+.top-header1 {
+    font-weight: normal;
+}
+
+.top-header2 {
+    margin-top: 0;
+    font-weight: bolder;
+    color: hsl(234, 12%, 34%);
+    font-size: 1.44rem;
+}
+
+.intro-para {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.top-container {
+    position: relative;
+    top: 45px;
+    margin: 50px auto 100px auto;
+}
+
+.encompassing-container {
+    position: relative;
+}
+
+.supervisor-container {
+    position: absolute;
+    left: 15%;
+
+}
+
+.team_builder-container {
+    position: absolute;
+    top: 15%;
+}
+
+.karma-container {
+    position: absolute;
+    right: 15%;
+}
+
+.calc-container {
+    position:absolute;
+    bottom: 50%;
+}
